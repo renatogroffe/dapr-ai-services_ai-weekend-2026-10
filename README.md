@@ -6,3 +6,5 @@ Exemplos utilizados:
 - Dashboard do Dapr para acompanhamento de sidecars em clusters Kubernetes: https://github.com/renatogroffe/dapr_sidecars_aks-managed_prometheus
 
 Saiba mais sobre o APISIX como solução de AI Gateway em: https://apisix.apache.org/ai-gateway/
+
+E sobre o suporte do Dapr a IAs em: https://docs.dapr.io/developing-applications/building-blocks/conversation/conversation-overview/
